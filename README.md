@@ -13,7 +13,7 @@ iwr https://get.pnpm.io/install.ps1 -useb | iex
 On Ubuntu/WSL systems
 
 ```bash
-curl -fsSL https://get.pnpm.io/install.sh | sh - #or
+curl -fsSL https://get.pnpm.io/install.sh | sh -
 
 ```
 
